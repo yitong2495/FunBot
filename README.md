@@ -1,10 +1,12 @@
 # FunBot
 Random acitivity generator.
 
-This is a small project to practice API.
+This is my first project to practice API.
 
 Built with HTML, CSS and JavaScript.
 
-This Bot uses the API to get random activities. Click the button and the activities will show up randomly.
+This app uses the Bored API to get random activities. 
 
+User click the button and the activities will show up on the screen randomly.
 
+Live Link: https://silver-sorbet-0fd0eb.netlify.app/
